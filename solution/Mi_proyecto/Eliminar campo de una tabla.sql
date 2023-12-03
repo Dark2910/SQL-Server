@@ -1,0 +1,4 @@
+USE[CentroMedico];
+
+ALTER TABLE Paciente
+DROP COLUMN DNI;

@@ -1,0 +1,1 @@
+SQLCMD -s ./192.168.1.72 -i D:\CentroMedico\job_restoreDB.sql

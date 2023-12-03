@@ -1,0 +1,1 @@
+SQLCMD -s .\192.168.1.77 -i D:\CentroMedico\job_bakupDB.sql
